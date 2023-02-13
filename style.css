@@ -1,0 +1,82 @@
+.container{
+  width:65%;
+  margin:auto;
+  font-family: 'Work Sans', sans-serif;
+  padding:3%;
+  border: 1px solid #189AB4;
+  color:#05445E;
+}
+
+.name{
+  font-weight:bold;
+  font-size:1.8em;
+  margin-bottom:3%;
+  text-decoration:underline;
+  
+}
+.cohort{
+  margin-bottom:3%;
+}
+.profile_pic img {
+  width: 200px;
+  border-radius: 50%;
+  float:right;
+}
+
+.description_title{
+  font-size:1.3em;
+  font-weight:bold;
+  text-decoration:underline;
+  margin-bottom:1.5%;
+}
+
+.description{
+  width:60%;
+  font-size:1em;
+  margin-bottom:3%;
+}
+
+.list_header{
+  font-size:1.3em;
+  font-weight:bold;
+  text-decoration:underline;
+}
+
+.table_title{
+  font-size:1.3em;
+  font-weight:bold;
+  text-decoration:underline;
+  margin-bottom:1.5%;
+}
+
+table{
+  border-collapse: collapse;
+  margin-bottom: 5%;
+}
+
+table th {
+  text-align: inherit;
+  border: 1px solid #75E6DA;
+  padding: 5px;
+}
+
+table td {
+  text-align: inherit;
+  border: 1px solid #75E6DA;
+  padding: 5px;
+}
+.contact{
+  font-size:1.3em;
+  font-weight:bold;
+  text-decoration:underline;
+  margin-bottom:1.5%;
+}
+
+.linkedin img{
+  width:50px;
+}
+
+.gmail img{
+  width: 65px;
+  margin-left: 1%;
+}
